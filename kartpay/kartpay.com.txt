@@ -1,0 +1,11 @@
+<a href=git.kartpay.com></a>
+<a href=linode.kartpay.com></a>
+<a href=sg.kartpay.com></a>
+<a href=panel.kartpay.com></a>
+<a href=test.kartpay.com></a>
+<a href=live.kartpay.com></a>
+<a href=developers.kartpay.com></a>
+<a href=vpn.kartpay.com></a>
+<a href=merchant.kartpay.com></a>
+<a href=www.kartpay.com></a>
+<a href=affiliate.kartpay.com></a>

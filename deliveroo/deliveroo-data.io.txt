@@ -1,0 +1,4 @@
+<a href=api.canoe-production-k8s.deliveroo-data.io></a>
+<a href=api.internal.canoe-production-k8s.deliveroo-data.io></a>
+<a href=bastion.canoe-production-k8s.deliveroo-data.io></a>
+<a href=weather.deliveroo-data.io></a>

@@ -1,0 +1,2 @@
+<a href=status.cfbenchmarks.com></a>
+<a href=blog.cfbenchmarks.com></a>

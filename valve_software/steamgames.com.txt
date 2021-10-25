@@ -1,0 +1,8 @@
+<a href=cpanel.steamgames.com></a>
+<a href=forums.steamgames.com></a>
+<a href=partner.staging.steamgames.com></a>
+<a href=store.steamgames.com></a>
+<a href=partner.steamgames.com></a>
+<a href=partner-linux.steamgames.com></a>
+<a href=developer.steamgames.com></a>
+<a href=www.steamgames.com></a>

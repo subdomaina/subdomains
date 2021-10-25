@@ -1,0 +1,3 @@
+<a href=smtp.domeinen.org></a>
+<a href=webmail.domeinen.org></a>
+<a href=telewerken.domeinen.org></a>

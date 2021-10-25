@@ -1,0 +1,8 @@
+<a href=centrifugo.donationalerts.com></a>
+<a href=images-awards.donationalerts.com></a>
+<a href=static.donationalerts.com></a>
+<a href=awards.donationalerts.com></a>
+<a href=www.donationalerts.com></a>
+<a href=api-awards.donationalerts.com></a>
+<a href=chat.donationalerts.com></a>
+<a href=auth.donationalerts.com></a>

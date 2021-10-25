@@ -1,0 +1,10 @@
+<a href=a-www.derijkscampus.nl></a>
+<a href=english.derijkscampus.nl></a>
+<a href=feeds.english.derijkscampus.nl></a>
+<a href=magazines.derijkscampus.nl></a>
+<a href=magazines.english.derijkscampus.nl></a>
+<a href=magazinesintern.derijkscampus.nl></a>
+<a href=opendata.english.derijkscampus.nl></a>
+<a href=www.derijkscampus.nl></a>
+<a href=opendata.derijkscampus.nl></a>
+<a href=feeds.derijkscampus.nl></a>

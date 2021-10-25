@@ -1,0 +1,3 @@
+<a href=www.zyngagames.com></a>
+<a href=staging.zyngagames.com></a>
+<a href=alpha.zyngagames.com></a>

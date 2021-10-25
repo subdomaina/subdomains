@@ -1,0 +1,10 @@
+<a href=s3.bitdiscovery.com></a>
+<a href=staging2.bitdiscovery.com></a>
+<a href=dev.bitdiscovery.com></a>
+<a href=blog.bitdiscovery.com></a>
+<a href=www.bitdiscovery.com></a>
+<a href=synopsys.bitdiscovery.com></a>
+<a href=staging.bitdiscovery.com></a>
+<a href=tenable.bitdiscovery.com></a>
+<a href=ibm.bitdiscovery.com></a>
+<a href=docs.bitdiscovery.com></a>

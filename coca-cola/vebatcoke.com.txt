@@ -1,0 +1,4 @@
+<a href=staging.vebatcoke.com></a>
+<a href=www.vebatcoke.com></a>
+<a href=preview.vebatcoke.com></a>
+<a href=preview.staging.vebatcoke.com></a>

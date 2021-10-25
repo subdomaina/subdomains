@@ -1,0 +1,8 @@
+<a href=blog.yelpwifi.com></a>
+<a href=images-dev.yelpwifi.com></a>
+<a href=stage.yelpwifi.com></a>
+<a href=try.yelpwifi.com></a>
+<a href=images.dev.yelpwifi.com></a>
+<a href=www.yelpwifi.com></a>
+<a href=support.yelpwifi.com></a>
+<a href=images.yelpwifi.com></a>

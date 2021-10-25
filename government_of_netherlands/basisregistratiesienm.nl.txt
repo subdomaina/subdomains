@@ -1,0 +1,9 @@
+<a href=english.basisregistratiesienm.nl></a>
+<a href=feeds.basisregistratiesienm.nl></a>
+<a href=feeds.english.basisregistratiesienm.nl></a>
+<a href=magazines.basisregistratiesienm.nl></a>
+<a href=magazines.english.basisregistratiesienm.nl></a>
+<a href=magazinesintern.basisregistratiesienm.nl></a>
+<a href=opendata.basisregistratiesienm.nl></a>
+<a href=opendata.english.basisregistratiesienm.nl></a>
+<a href=www.basisregistratiesienm.nl></a>

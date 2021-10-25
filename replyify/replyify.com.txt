@@ -1,0 +1,13 @@
+<a href=staging.replyify.com></a>
+<a href=get.replyify.com></a>
+<a href=api.replyify.com></a>
+<a href=newblog.replyify.com></a>
+<a href=aws.replyify.com></a>
+<a href=aws-api.replyify.com></a>
+<a href=blog.replyify.com></a>
+<a href=app.replyify.com></a>
+<a href=help.replyify.com></a>
+<a href=staging.track.replyify.com></a>
+<a href=track.replyify.com></a>
+<a href=www.replyify.com></a>
+<a href=staging-api.replyify.com></a>

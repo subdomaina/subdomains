@@ -1,0 +1,13 @@
+<a href=staging-error.igpayment.com></a>
+<a href=staging-slow.igpayment.com></a>
+<a href=staging-timeout.igpayment.com></a>
+<a href=www.staging-error.igpayment.com></a>
+<a href=www.staging-slow.igpayment.com></a>
+<a href=www.staging-timeout.igpayment.com></a>
+<a href=www.staging.igpayment.com></a>
+<a href=staging.igpayment.com></a>
+<a href=testing.igpayment.com></a>
+<a href=www.igpayment.com></a>
+<a href=www.testing.igpayment.com></a>
+<a href=subscription.igpayment.com></a>
+<a href=www.subscription.igpayment.com></a>

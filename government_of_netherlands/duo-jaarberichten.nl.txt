@@ -1,0 +1,9 @@
+<a href=english.duo-jaarberichten.nl></a>
+<a href=feeds.duo-jaarberichten.nl></a>
+<a href=feeds.english.duo-jaarberichten.nl></a>
+<a href=magazines.duo-jaarberichten.nl></a>
+<a href=magazines.english.duo-jaarberichten.nl></a>
+<a href=magazinesintern.duo-jaarberichten.nl></a>
+<a href=opendata.duo-jaarberichten.nl></a>
+<a href=opendata.english.duo-jaarberichten.nl></a>
+<a href=www.duo-jaarberichten.nl></a>

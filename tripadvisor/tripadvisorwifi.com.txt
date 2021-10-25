@@ -1,0 +1,8 @@
+<a href=learn.tripadvisorwifi.com></a>
+<a href=team.tripadvisorwifi.com></a>
+<a href=api.tripadvisorwifi.com></a>
+<a href=api.test.tripadvisorwifi.com></a>
+<a href=help.tripadvisorwifi.com></a>
+<a href=internal-api.test.tripadvisorwifi.com></a>
+<a href=www.tripadvisorwifi.com></a>
+<a href=docs.tripadvisorwifi.com></a>

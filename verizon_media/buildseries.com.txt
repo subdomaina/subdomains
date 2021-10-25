@@ -1,0 +1,7 @@
+<a href=b.buildseries.com></a>
+<a href=beta.buildseries.com></a>
+<a href=sandbox.buildseries.com></a>
+<a href=stage.guce.buildseries.com></a>
+<a href=www.buildseries.com></a>
+<a href=trunk.guce.buildseries.com></a>
+<a href=guce.buildseries.com></a>

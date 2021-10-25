@@ -1,0 +1,10 @@
+<a href=acc.agentschapszw.nl></a>
+<a href=english.agentschapszw.nl></a>
+<a href=feeds.agentschapszw.nl></a>
+<a href=feeds.english.agentschapszw.nl></a>
+<a href=magazines.agentschapszw.nl></a>
+<a href=magazines.english.agentschapszw.nl></a>
+<a href=magazinesintern.agentschapszw.nl></a>
+<a href=opendata.agentschapszw.nl></a>
+<a href=opendata.english.agentschapszw.nl></a>
+<a href=www.agentschapszw.nl></a>

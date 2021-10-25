@@ -1,0 +1,9 @@
+<a href=english.eerenvrijheid.nl></a>
+<a href=feeds.eerenvrijheid.nl></a>
+<a href=feeds.english.eerenvrijheid.nl></a>
+<a href=magazines.eerenvrijheid.nl></a>
+<a href=magazines.english.eerenvrijheid.nl></a>
+<a href=magazinesintern.eerenvrijheid.nl></a>
+<a href=opendata.eerenvrijheid.nl></a>
+<a href=opendata.english.eerenvrijheid.nl></a>
+<a href=www.eerenvrijheid.nl></a>

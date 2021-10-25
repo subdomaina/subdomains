@@ -1,0 +1,12 @@
+<a href=ews2013-app01.ews2013.zynbitdev.com></a>
+<a href=www.zynbitdev.com></a>
+<a href=socket-test.zynbitdev.com></a>
+<a href=dashboard-test.zynbitdev.com></a>
+<a href=mail.ews2013.zynbitdev.com></a>
+<a href=app-staging.zynbitdev.com></a>
+<a href=crmapi-test.zynbitdev.com></a>
+<a href=owa-test.zynbitdev.com></a>
+<a href=ews2013.zynbitdev.com></a>
+<a href=ews2013adfs.zynbitdev.com></a>
+<a href=api-test.zynbitdev.com></a>
+<a href=app.zynbitdev.com></a>

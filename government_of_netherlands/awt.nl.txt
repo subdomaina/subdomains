@@ -1,0 +1,4 @@
+<a href=www.awt.nl></a>
+<a href=smtp.awt.nl></a>
+<a href=pushmail.awt.nl></a>
+<a href=www.pushmail.awt.nl></a>

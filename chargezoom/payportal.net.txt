@@ -1,0 +1,14 @@
+<a href=api.payportal.net></a>
+<a href=testreseller.payportal.net></a>
+<a href=www.bolero.payportal.net></a>
+<a href=developer.payportal.net></a>
+<a href=reseller.payportal.net></a>
+<a href=cpcontacts.payportal.net></a>
+<a href=cpcalendars.payportal.net></a>
+<a href=www.reseller.payportal.net></a>
+<a href=bolero.payportal.net></a>
+<a href=webmail.payportal.net></a>
+<a href=www.payportal.net></a>
+<a href=mail.payportal.net></a>
+<a href=cpanel.payportal.net></a>
+<a href=webdisk.payportal.net></a>

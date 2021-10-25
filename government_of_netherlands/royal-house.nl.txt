@@ -1,0 +1,10 @@
+<a href=a-feeds.royal-house.nl></a>
+<a href=a-magazines.royal-house.nl></a>
+<a href=a-magazinesintern.royal-house.nl></a>
+<a href=a-opendata.royal-house.nl></a>
+<a href=a-www.royal-house.nl></a>
+<a href=magazines.royal-house.nl></a>
+<a href=magazinesintern.royal-house.nl></a>
+<a href=www.royal-house.nl></a>
+<a href=feeds.royal-house.nl></a>
+<a href=opendata.royal-house.nl></a>

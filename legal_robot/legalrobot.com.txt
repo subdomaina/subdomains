@@ -1,0 +1,15 @@
+<a href=api.legalrobot.com></a>
+<a href=app.legalrobot.com></a>
+<a href=dev.legalrobot.com></a>
+<a href=g.legalrobot.com></a>
+<a href=k8s-resources.legalrobot.com></a>
+<a href=nginx-rewrite.legalrobot.com></a>
+<a href=test.legalrobot.com></a>
+<a href=www.app.legalrobot.com></a>
+<a href=www.git.legalrobot.com></a>
+<a href=www.legalrobot.com></a>
+<a href=mail.legalrobot.com></a>
+<a href=registry.legalrobot.com></a>
+<a href=bw.legalrobot.com></a>
+<a href=dl.legalrobot.com></a>
+<a href=git.legalrobot.com></a>

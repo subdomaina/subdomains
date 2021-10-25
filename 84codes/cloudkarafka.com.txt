@@ -1,0 +1,8 @@
+<a href=www.api.cloudkarafka.com></a>
+<a href=api.cloudkarafka.com></a>
+<a href=manager.cloudkarafka.com></a>
+<a href=status.cloudkarafka.com></a>
+<a href=admin.cloudkarafka.com></a>
+<a href=customer.cloudkarafka.com></a>
+<a href=www.cloudkarafka.com></a>
+<a href=docs.cloudkarafka.com></a>

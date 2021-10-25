@@ -1,0 +1,11 @@
+<a href=blog.global.shop></a>
+<a href=br.global.shop></a>
+<a href=cpanel.global.shop></a>
+<a href=mail.global.shop></a>
+<a href=webdisk.global.shop></a>
+<a href=webmail.global.shop></a>
+<a href=www.blog.global.shop></a>
+<a href=www.br.global.shop></a>
+<a href=www.global.shop></a>
+<a href=files.global.shop></a>
+<a href=stock.global.shop></a>

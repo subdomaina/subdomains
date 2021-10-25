@@ -1,0 +1,3 @@
+<a href=www.pandao.ru></a>
+<a href=console.pandao.ru></a>
+<a href=api.pandao.ru></a>

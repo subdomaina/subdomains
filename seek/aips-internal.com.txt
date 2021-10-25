@@ -1,0 +1,13 @@
+<a href=vault3.aips-internal.com></a>
+<a href=thanos.aips-internal.com></a>
+<a href=grafana-staging.aips-internal.com></a>
+<a href=vault1.aips-internal.com></a>
+<a href=opt-staging.aips-internal.com></a>
+<a href=vault.aips-internal.com></a>
+<a href=opt.aips-internal.com></a>
+<a href=logging.aips-internal.com></a>
+<a href=vault2.aips-internal.com></a>
+<a href=prometheus-staging.aips-internal.com></a>
+<a href=thanos-staging.aips-internal.com></a>
+<a href=prod.aips-internal.com></a>
+<a href=staging.aips-internal.com></a>

@@ -1,0 +1,7 @@
+<a href=mail.teambeyond.net></a>
+<a href=www.teambeyond.net></a>
+<a href=www.mail.teambeyond.net></a>
+<a href=play.teambeyond.net></a>
+<a href=api.teambeyond.net></a>
+<a href=admin-api.teambeyond.net></a>
+<a href=apanel.teambeyond.net></a>

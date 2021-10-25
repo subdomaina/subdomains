@@ -1,0 +1,15 @@
+<a href=www.myndr.net></a>
+<a href=mqtt-ws.myndr.net></a>
+<a href=pub.myndr.net></a>
+<a href=mqtt.myndr.net></a>
+<a href=ns1.myndr.net></a>
+<a href=ns2.myndr.net></a>
+<a href=public2.myndr.net></a>
+<a href=preparsed.myndr.net></a>
+<a href=dns.myndr.net></a>
+<a href=dashboard.myndr.net></a>
+<a href=blocked.myndr.net></a>
+<a href=permalink.myndr.net></a>
+<a href=mqtt-new.myndr.net></a>
+<a href=public.myndr.net></a>
+<a href=meta.myndr.net></a>

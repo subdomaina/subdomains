@@ -1,0 +1,10 @@
+<a href=email.redditgifts.com></a>
+<a href=phabricator.redditgifts.com></a>
+<a href=ssl.redditgifts.com></a>
+<a href=static.redditgifts.com></a>
+<a href=www.phabricator.redditgifts.com></a>
+<a href=www.redditgifts.com></a>
+<a href=www.ssl.redditgifts.com></a>
+<a href=o1.email.redditgifts.com></a>
+<a href=o1.ptr7660.redditgifts.com></a>
+<a href=o2.ptr9360.redditgifts.com></a>

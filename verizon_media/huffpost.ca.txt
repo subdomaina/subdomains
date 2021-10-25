@@ -1,0 +1,8 @@
+<a href=www.huffpost.ca></a>
+<a href=quebec.huffpost.ca></a>
+<a href=cms.huffpost.ca></a>
+<a href=staging.contributor.quebec.huffpost.ca></a>
+<a href=contributor.huffpost.ca></a>
+<a href=contributor.quebec.huffpost.ca></a>
+<a href=cms.quebec.huffpost.ca></a>
+<a href=staging.contributor.huffpost.ca></a>

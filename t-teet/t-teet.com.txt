@@ -1,0 +1,5 @@
+<a href=api.t-teet.com></a>
+<a href=devenv.t-teet.com></a>
+<a href=admin.t-teet.com></a>
+<a href=www.t-teet.com></a>
+<a href=staging.t-teet.com></a>

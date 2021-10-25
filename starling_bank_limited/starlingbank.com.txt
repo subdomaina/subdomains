@@ -1,0 +1,14 @@
+<a href=community.starlingbank.com></a>
+<a href=developer.starlingbank.com></a>
+<a href=openbanking.starlingbank.com></a>
+<a href=settleup.starlingbank.com></a>
+<a href=ssg.starlingbank.com></a>
+<a href=tooling.starlingbank.com></a>
+<a href=www.community.starlingbank.com></a>
+<a href=www.starlingbank.com></a>
+<a href=openintegrations.starlingbank.com></a>
+<a href=cics.starlingbank.com></a>
+<a href=help.starlingbank.com></a>
+<a href=help-sandbox.starlingbank.com></a>
+<a href=token-api-sandbox.starlingbank.com></a>
+<a href=updates.starlingbank.com></a>

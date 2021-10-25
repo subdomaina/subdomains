@@ -1,0 +1,11 @@
+<a href=webmail.wordpressfoundation.org></a>
+<a href=whm.wordpressfoundation.org></a>
+<a href=autoconfig.wordpressfoundation.org></a>
+<a href=cpanel.wordpressfoundation.org></a>
+<a href=www.wordpressfoundation.org></a>
+<a href=cpcontacts.wordpressfoundation.org></a>
+<a href=autodiscover.wordpressfoundation.org></a>
+<a href=ftp.wordpressfoundation.org></a>
+<a href=mail.wordpressfoundation.org></a>
+<a href=webdisk.wordpressfoundation.org></a>
+<a href=cpcalendars.wordpressfoundation.org></a>

@@ -1,0 +1,6 @@
+<a href=www.paradex.io></a>
+<a href=assets.paradex.io></a>
+<a href=kovan-api.paradex.io></a>
+<a href=api.paradex.io></a>
+<a href=developers.paradex.io></a>
+<a href=kovan.paradex.io></a>

@@ -1,0 +1,14 @@
+<a href=charts.gimletmedia.com></a>
+<a href=membersstaging.gimletmedia.com></a>
+<a href=staging.gimletmedia.com></a>
+<a href=store.gimletmedia.com></a>
+<a href=feeds.gimletmedia.com></a>
+<a href=members.gimletmedia.com></a>
+<a href=staff.gimletmedia.com></a>
+<a href=creative.gimletmedia.com></a>
+<a href=www.gimletmedia.com></a>
+<a href=cdn.gimletmedia.com></a>
+<a href=api.gimletmedia.com></a>
+<a href=email.gimletmedia.com></a>
+<a href=citrus.gimletmedia.com></a>
+<a href=player.gimletmedia.com></a>

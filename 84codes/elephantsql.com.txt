@@ -1,0 +1,10 @@
+<a href=www.api.elephantsql.com></a>
+<a href=www.customer.elephantsql.com></a>
+<a href=docs.elephantsql.com></a>
+<a href=status.elephantsql.com></a>
+<a href=admin.elephantsql.com></a>
+<a href=db.elephantsql.com></a>
+<a href=customer.elephantsql.com></a>
+<a href=api.elephantsql.com></a>
+<a href=www.elephantsql.com></a>
+<a href=email.elephantsql.com></a>

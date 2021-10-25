@@ -1,0 +1,17 @@
+<a href=assets.ghe.pentesting.semmle.net></a>
+<a href=avatars.ghe.pentesting.semmle.net></a>
+<a href=avayairs.ghe.pentesting.semmle.net></a>
+<a href=codeload.ghe.pentesting.semmle.net></a>
+<a href=ghe.pentesting.semmle.net></a>
+<a href=gist.ghe.pentesting.semmle.net></a>
+<a href=lgtm.pentesting.semmle.net></a>
+<a href=media.ghe.pentesting.semmle.net></a>
+<a href=pages.ghe.pentesting.semmle.net></a>
+<a href=raw.ghe.pentesting.semmle.net></a>
+<a href=registry.ghe.pentesting.semmle.net></a>
+<a href=render.ghe.pentesting.semmle.net></a>
+<a href=uploads.ghe.pentesting.semmle.net></a>
+<a href=www.lgtm-staging.semmle.net></a>
+<a href=lgtm-staging.semmle.net></a>
+<a href=lgtm-com.pentesting.semmle.net></a>
+<a href=www.semmle.net></a>

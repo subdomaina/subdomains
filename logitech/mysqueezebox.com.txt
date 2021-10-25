@@ -1,0 +1,9 @@
+<a href=jive.mysqueezebox.com></a>
+<a href=nat.use.mysqueezebox.com></a>
+<a href=dns.usw.mysqueezebox.com></a>
+<a href=dns.use.mysqueezebox.com></a>
+<a href=dns.euw.mysqueezebox.com></a>
+<a href=www.mysqueezebox.com></a>
+<a href=nat.euw.mysqueezebox.com></a>
+<a href=use.mysqueezebox.com></a>
+<a href=euw.mysqueezebox.com></a>

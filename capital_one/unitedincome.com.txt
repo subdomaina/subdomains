@@ -1,0 +1,13 @@
+<a href=etna.unitedincome.com></a>
+<a href=localhost.unitedincome.com></a>
+<a href=www.etna.unitedincome.com></a>
+<a href=o1.mail.unitedincome.com></a>
+<a href=app.unitedincome.com></a>
+<a href=blog.unitedincome.com></a>
+<a href=www.blog.unitedincome.com></a>
+<a href=www.unitedincome.com></a>
+<a href=api-beta.unitedincome.com></a>
+<a href=app-beta.unitedincome.com></a>
+<a href=sip.unitedincome.com></a>
+<a href=api.unitedincome.com></a>
+<a href=mailtrack.unitedincome.com></a>

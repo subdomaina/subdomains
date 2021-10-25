@@ -1,0 +1,10 @@
+<a href=pantry.butlerfortrello.com></a>
+<a href=redis-test.butlerfortrello.com></a>
+<a href=redis.butlerfortrello.com></a>
+<a href=bot.butlerfortrello.com></a>
+<a href=staging.api.butlerfortrello.com></a>
+<a href=app.butlerfortrello.com></a>
+<a href=lens.butlerfortrello.com></a>
+<a href=help.butlerfortrello.com></a>
+<a href=api.butlerfortrello.com></a>
+<a href=www.butlerfortrello.com></a>

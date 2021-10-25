@@ -1,0 +1,5 @@
+<a href=api.thecoalition.com></a>
+<a href=blog.thecoalition.com></a>
+<a href=help.thecoalition.com></a>
+<a href=platform.thecoalition.com></a>
+<a href=www.thecoalition.com></a>

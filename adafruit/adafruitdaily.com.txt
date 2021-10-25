@@ -1,0 +1,4 @@
+<a href=staging.adafruitdaily.com></a>
+<a href=cdn-daily-blog.adafruitdaily.com></a>
+<a href=makecode.adafruitdaily.com></a>
+<a href=www.adafruitdaily.com></a>

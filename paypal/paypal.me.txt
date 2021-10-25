@@ -1,0 +1,5 @@
+<a href=s.paypal.me></a>
+<a href=vote.paypal.me></a>
+<a href=donate.paypal.me></a>
+<a href=localhost.paypal.me></a>
+<a href=www.paypal.me></a>

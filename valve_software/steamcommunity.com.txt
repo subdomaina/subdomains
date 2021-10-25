@@ -1,0 +1,7 @@
+<a href=api.steamcommunity.com></a>
+<a href=staging.steamcommunity.com></a>
+<a href=cdn.steamcommunity.com></a>
+<a href=www.steamcommunity.com></a>
+<a href=origin.steamcommunity.com></a>
+<a href=media.steamcommunity.com></a>
+<a href=beta.steamcommunity.com></a>

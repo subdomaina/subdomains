@@ -1,0 +1,11 @@
+<a href=loadtest.api.uphabit.com></a>
+<a href=development.api.uphabit.com></a>
+<a href=www.test.uphabit.com></a>
+<a href=www.uphabit.com></a>
+<a href=test.uphabit.com></a>
+<a href=web.uphabit.com></a>
+<a href=sms.uphabit.com></a>
+<a href=staging.api.uphabit.com></a>
+<a href=api.uphabit.com></a>
+<a href=links.uphabit.com></a>
+<a href=app.uphabit.com></a>

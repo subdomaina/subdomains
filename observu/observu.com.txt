@@ -1,0 +1,9 @@
+<a href=m.observu.com></a>
+<a href=test.observu.com></a>
+<a href=www.m.observu.com></a>
+<a href=www.test.observu.com></a>
+<a href=www.observu.com></a>
+<a href=do-lnd-checker-1.servers.observu.com></a>
+<a href=do-ams-checker-1.servers.observu.com></a>
+<a href=do-nyc-checker-1.servers.observu.com></a>
+<a href=blog.observu.com></a>

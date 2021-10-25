@@ -1,0 +1,4 @@
+<a href=cdn.localizestaging.com></a>
+<a href=api.localizestaging.com></a>
+<a href=assets.localizestaging.com></a>
+<a href=www.localizestaging.com></a>

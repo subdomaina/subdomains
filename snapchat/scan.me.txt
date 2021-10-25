@@ -1,0 +1,7 @@
+<a href=assets.scan.me></a>
+<a href=email-delivery.scan.me></a>
+<a href=get.scan.me></a>
+<a href=images.scan.me></a>
+<a href=o1.email-delivery.scan.me></a>
+<a href=www.scan.me></a>
+<a href=mail.scan.me></a>

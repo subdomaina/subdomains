@@ -1,0 +1,4 @@
+<a href=cdn.segment.io></a>
+<a href=registry.segment.io></a>
+<a href=www.segment.io></a>
+<a href=api.segment.io></a>

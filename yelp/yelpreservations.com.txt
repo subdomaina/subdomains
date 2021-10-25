@@ -1,0 +1,14 @@
+<a href=demos.yelpreservations.com></a>
+<a href=devc.yelpreservations.com></a>
+<a href=ops.yelpreservations.com></a>
+<a href=paasta.yelpreservations.com></a>
+<a href=get.yelpreservations.com></a>
+<a href=www.yelpreservations.com></a>
+<a href=www.devc.yelpreservations.com></a>
+<a href=info.yelpreservations.com></a>
+<a href=api.yelpreservations.com></a>
+<a href=api.devc.yelpreservations.com></a>
+<a href=www.staging.yelpreservations.com></a>
+<a href=api.staging.yelpreservations.com></a>
+<a href=static.yelpreservations.com></a>
+<a href=staging.yelpreservations.com></a>

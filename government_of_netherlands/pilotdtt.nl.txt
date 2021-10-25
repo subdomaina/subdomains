@@ -1,0 +1,10 @@
+<a href=english.pilotdtt.nl></a>
+<a href=feeds.english.pilotdtt.nl></a>
+<a href=feeds.pilotdtt.nl></a>
+<a href=magazines.english.pilotdtt.nl></a>
+<a href=magazines.pilotdtt.nl></a>
+<a href=magazinesintern.english.pilotdtt.nl></a>
+<a href=magazinesintern.pilotdtt.nl></a>
+<a href=opendata.english.pilotdtt.nl></a>
+<a href=opendata.pilotdtt.nl></a>
+<a href=www.pilotdtt.nl></a>

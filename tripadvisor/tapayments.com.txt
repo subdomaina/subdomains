@@ -1,0 +1,16 @@
+<a href=walletproxy.tapayments.com></a>
+<a href=partnerapi2.tapayments.com></a>
+<a href=api-hare.tapayments.com></a>
+<a href=partnerapi1.tapayments.com></a>
+<a href=internalapi1.tapayments.com></a>
+<a href=internalapi-lapin.tapayments.com></a>
+<a href=internalapi2.tapayments.com></a>
+<a href=api-lapin.tapayments.com></a>
+<a href=internalapi.tapayments.com></a>
+<a href=internalapi-hare.tapayments.com></a>
+<a href=api2.tapayments.com></a>
+<a href=partnerapi.tapayments.com></a>
+<a href=api1.tapayments.com></a>
+<a href=walletproxy1.tapayments.com></a>
+<a href=walletproxy2.tapayments.com></a>
+<a href=api.tapayments.com></a>

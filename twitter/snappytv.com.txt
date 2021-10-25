@@ -1,0 +1,12 @@
+<a href=beta.snappytv.com></a>
+<a href=blog.snappytv.com></a>
+<a href=blog01.usw2.snappytv.com></a>
+<a href=devel01.stage.usw2.snappytv.com></a>
+<a href=mta01.aws.snappytv.com></a>
+<a href=mta01.usw2.snappytv.com></a>
+<a href=mta02.aws.snappytv.com></a>
+<a href=mta02.usw2.snappytv.com></a>
+<a href=rel.snappytv.com></a>
+<a href=stage.snappytv.com></a>
+<a href=static.origin.snappytv.com></a>
+<a href=www.snappytv.com></a>

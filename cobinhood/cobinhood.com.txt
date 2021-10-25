@@ -1,0 +1,10 @@
+<a href=api.cobinhood.com></a>
+<a href=ci.cobinhood.com></a>
+<a href=faq.cobinhood.com></a>
+<a href=feed.cobinhood.com></a>
+<a href=o1.sendgrid.cobinhood.com></a>
+<a href=slack.cobinhood.com></a>
+<a href=trade.cobinhood.com></a>
+<a href=ws.cobinhood.com></a>
+<a href=www.cobinhood.com></a>
+<a href=refund.cobinhood.com></a>

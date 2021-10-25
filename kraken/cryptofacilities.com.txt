@@ -1,0 +1,13 @@
+<a href=beta.cryptofacilities.com></a>
+<a href=dev-futures.cryptofacilities.com></a>
+<a href=dev.cryptofacilities.com></a>
+<a href=old.cryptofacilities.com></a>
+<a href=uat.cryptofacilities.com></a>
+<a href=www.beta.cryptofacilities.com></a>
+<a href=www.cryptofacilities.com></a>
+<a href=www.old.cryptofacilities.com></a>
+<a href=www.status.cryptofacilities.com></a>
+<a href=www.uat.cryptofacilities.com></a>
+<a href=support.cryptofacilities.com></a>
+<a href=www.support.cryptofacilities.com></a>
+<a href=status.cryptofacilities.com></a>

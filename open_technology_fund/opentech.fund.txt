@@ -1,0 +1,17 @@
+<a href=archive.opentech.fund></a>
+<a href=gl.report.opentech.fund></a>
+<a href=old.opentech.fund></a>
+<a href=social.opentech.fund></a>
+<a href=www.opentech.fund></a>
+<a href=www.we.opentech.fund></a>
+<a href=we.opentech.fund></a>
+<a href=handbook.opentech.fund></a>
+<a href=apply.opentech.fund></a>
+<a href=guide.opentech.fund></a>
+<a href=status.opentech.fund></a>
+<a href=docs.opentech.fund></a>
+<a href=sandbox.opentech.fund></a>
+<a href=public.opentech.fund></a>
+<a href=meet.opentech.fund></a>
+<a href=report.opentech.fund></a>
+<a href=sandbox-apply.opentech.fund></a>

@@ -1,0 +1,6 @@
+<a href=www-test.c-point.be></a>
+<a href=www.c-point.be></a>
+<a href=mail.c-point.be></a>
+<a href=autodiscover.c-point.be></a>
+<a href=www-accpt.c-point.be></a>
+<a href=owa.c-point.be></a>

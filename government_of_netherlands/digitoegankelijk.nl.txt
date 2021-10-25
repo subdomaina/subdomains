@@ -1,0 +1,12 @@
+<a href=english.digitoegankelijk.nl></a>
+<a href=feeds.digitoegankelijk.nl></a>
+<a href=feeds.english.digitoegankelijk.nl></a>
+<a href=magazines.digitoegankelijk.nl></a>
+<a href=magazines.english.digitoegankelijk.nl></a>
+<a href=magazinesintern.digitoegankelijk.nl></a>
+<a href=opendata.digitoegankelijk.nl></a>
+<a href=opendata.english.digitoegankelijk.nl></a>
+<a href=test-dictu.digitoegankelijk.nl></a>
+<a href=acc-dictu.digitoegankelijk.nl></a>
+<a href=www.digitoegankelijk.nl></a>
+<a href=prod-dictu.digitoegankelijk.nl></a>

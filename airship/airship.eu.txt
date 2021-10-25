@@ -1,0 +1,8 @@
+<a href=www.airship.eu></a>
+<a href=www.captain.airship.eu></a>
+<a href=analyze.airship.eu></a>
+<a href=captain.airship.eu></a>
+<a href=go-admin.airship.eu></a>
+<a href=auth.airship.eu></a>
+<a href=go.airship.eu></a>
+<a href=status.airship.eu></a>

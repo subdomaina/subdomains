@@ -1,0 +1,14 @@
+<a href=lithium.mediamarkt.pt></a>
+<a href=link.mediamarkt.pt></a>
+<a href=specials.mediamarkt.pt></a>
+<a href=dev.mediamarkt.pt></a>
+<a href=dev-bot-middleware.mediamarkt.pt></a>
+<a href=staging-chatbot.mediamarkt.pt></a>
+<a href=www.mediamarkt.pt></a>
+<a href=staging-bot-middleware.mediamarkt.pt></a>
+<a href=dev-chatbot.mediamarkt.pt></a>
+<a href=prelive.mediamarkt.pt></a>
+<a href=qa.mediamarkt.pt></a>
+<a href=bot-middleware.mediamarkt.pt></a>
+<a href=notifications.mediamarkt.pt></a>
+<a href=chatbot.mediamarkt.pt></a>

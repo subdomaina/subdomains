@@ -1,0 +1,11 @@
+<a href=feedback.shakepay.com></a>
+<a href=staging.shakepay.com></a>
+<a href=qa.shakepay.com></a>
+<a href=shaketh-prod-fallback.shakepay.com></a>
+<a href=shaketh-qa.shakepay.com></a>
+<a href=shaketh-staging.shakepay.com></a>
+<a href=shaketh-prod.shakepay.com></a>
+<a href=legal.shakepay.com></a>
+<a href=status.shakepay.com></a>
+<a href=blog.shakepay.com></a>
+<a href=learn.shakepay.com></a>

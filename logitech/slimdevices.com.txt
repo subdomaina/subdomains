@@ -1,0 +1,12 @@
+<a href=bugs.slimdevices.com></a>
+<a href=debian.slimdevices.com></a>
+<a href=eng.slimdevices.com></a>
+<a href=lb.slimdevices.com></a>
+<a href=web.slimdevices.com></a>
+<a href=forums.slimdevices.com></a>
+<a href=www.slimdevices.com></a>
+<a href=wiki.slimdevices.com></a>
+<a href=svn.slimdevices.com></a>
+<a href=downloads.slimdevices.com></a>
+<a href=cdn-origin.slimdevices.com></a>
+<a href=lists.slimdevices.com></a>

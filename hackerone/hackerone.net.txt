@@ -1,0 +1,3 @@
+<a href=errors.hackerone.net></a>
+<a href=www.hackerone.net></a>
+<a href=telnet.hackerone.net></a>

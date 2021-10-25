@@ -1,0 +1,11 @@
+<a href=api-mobile.kite.trade></a>
+<a href=api.kite.trade></a>
+<a href=developers.kite.trade></a>
+<a href=websocket.kite.trade></a>
+<a href=ws.kite.trade></a>
+<a href=www.api-mobile.kite.trade></a>
+<a href=www.api.kite.trade></a>
+<a href=www.developers.kite.trade></a>
+<a href=www.kite.trade></a>
+<a href=www.websocket.kite.trade></a>
+<a href=www.ws.kite.trade></a>

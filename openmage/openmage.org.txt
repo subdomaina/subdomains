@@ -1,0 +1,3 @@
+<a href=www.openmage.org></a>
+<a href=migrate.openmage.org></a>
+<a href=demo.openmage.org></a>

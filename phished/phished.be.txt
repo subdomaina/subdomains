@@ -1,0 +1,15 @@
+<a href=mail.phished.be></a>
+<a href=mta-sts.mail.phished.be></a>
+<a href=privacy.phished.be></a>
+<a href=landing.phished.be></a>
+<a href=tracking.phished.be></a>
+<a href=manage.phished.be></a>
+<a href=www.phished.be></a>
+<a href=sales.phished.be></a>
+<a href=api.phished.be></a>
+<a href=admin.phished.be></a>
+<a href=web.phished.be></a>
+<a href=backend.phished.be></a>
+<a href=auth.phished.be></a>
+<a href=app.phished.be></a>
+<a href=devprivacy.phished.be></a>

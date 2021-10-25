@@ -1,0 +1,6 @@
+<a href=mail.premierhero.com></a>
+<a href=uat.premierhero.com></a>
+<a href=www.premierhero.com></a>
+<a href=api.premierhero.com></a>
+<a href=blog.premierhero.com></a>
+<a href=dev.premierhero.com></a>

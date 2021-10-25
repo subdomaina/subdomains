@@ -1,0 +1,9 @@
+<a href=auth.certsy.com></a>
+<a href=api-prod.certsy.com></a>
+<a href=help.certsy.com></a>
+<a href=docs.certsy.com></a>
+<a href=status.certsy.com></a>
+<a href=admin-ui-prod.certsy.com></a>
+<a href=hirer.certsy.com></a>
+<a href=candidate-ui-prod.certsy.com></a>
+<a href=www.certsy.com></a>

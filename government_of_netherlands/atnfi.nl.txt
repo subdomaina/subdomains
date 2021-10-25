@@ -1,0 +1,9 @@
+<a href=english.atnfi.nl></a>
+<a href=feeds.atnfi.nl></a>
+<a href=feeds.english.atnfi.nl></a>
+<a href=magazines.atnfi.nl></a>
+<a href=magazines.english.atnfi.nl></a>
+<a href=magazinesintern.atnfi.nl></a>
+<a href=opendata.atnfi.nl></a>
+<a href=opendata.english.atnfi.nl></a>
+<a href=www.atnfi.nl></a>

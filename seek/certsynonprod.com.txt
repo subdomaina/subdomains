@@ -1,0 +1,8 @@
+<a href=www.certsynonprod.com></a>
+<a href=docs.certsynonprod.com></a>
+<a href=candidate-ui-staging.certsynonprod.com></a>
+<a href=docs-dev.certsynonprod.com></a>
+<a href=auth.certsynonprod.com></a>
+<a href=hirer.certsynonprod.com></a>
+<a href=api-staging.certsynonprod.com></a>
+<a href=admin-ui-staging.certsynonprod.com></a>

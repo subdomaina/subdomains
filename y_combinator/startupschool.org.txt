@@ -1,0 +1,7 @@
+<a href=chat-stage.startupschool.org></a>
+<a href=chat-test.startupschool.org></a>
+<a href=chat.startupschool.org></a>
+<a href=conference.startupschool.org></a>
+<a href=staging.startupschool.org></a>
+<a href=www.staging.startupschool.org></a>
+<a href=www.startupschool.org></a>

@@ -1,0 +1,9 @@
+<a href=autodiscover.astaro.de></a>
+<a href=download2.astaro.de></a>
+<a href=download.astaro.de></a>
+<a href=vpn.astaro.de></a>
+<a href=ftp2.astaro.de></a>
+<a href=ftp.astaro.de></a>
+<a href=survey-emea.astaro.de></a>
+<a href=www.astaro.de></a>
+<a href=blog.astaro.de></a>

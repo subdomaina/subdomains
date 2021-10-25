@@ -1,0 +1,15 @@
+<a href=magazines.awti.nl></a>
+<a href=magazines.english.awti.nl></a>
+<a href=magazinesintern.awti.nl></a>
+<a href=magazinesintern.english.awti.nl></a>
+<a href=smtp1.awti.nl></a>
+<a href=vpn.awti.nl></a>
+<a href=feeds.english.awti.nl></a>
+<a href=feeds.awti.nl></a>
+<a href=english.awti.nl></a>
+<a href=a-www.awti.nl></a>
+<a href=www.awti.nl></a>
+<a href=smtp.awti.nl></a>
+<a href=opendata.awti.nl></a>
+<a href=pushmail.awti.nl></a>
+<a href=opendata.english.awti.nl></a>

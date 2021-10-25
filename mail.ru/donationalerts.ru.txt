@@ -1,0 +1,3 @@
+<a href=auth.donationalerts.ru></a>
+<a href=static.donationalerts.ru></a>
+<a href=www.donationalerts.ru></a>

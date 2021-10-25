@@ -1,0 +1,7 @@
+<a href=discuss-staging.lgtm.com></a>
+<a href=discuss-test.lgtm.com></a>
+<a href=www.downloads.lgtm.com></a>
+<a href=downloads.lgtm.com></a>
+<a href=www.lgtm.com></a>
+<a href=discuss.lgtm.com></a>
+<a href=deploy.lgtm.com></a>

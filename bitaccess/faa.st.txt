@@ -1,0 +1,8 @@
+<a href=api.faa.st></a>
+<a href=web3.faa.st></a>
+<a href=www.faa.st></a>
+<a href=www.web3.faa.st></a>
+<a href=docs.faa.st></a>
+<a href=slack.faa.st></a>
+<a href=login.faa.st></a>
+<a href=status.faa.st></a>

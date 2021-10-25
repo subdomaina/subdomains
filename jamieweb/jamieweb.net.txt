@@ -1,0 +1,10 @@
+<a href=bitcoin.jamieweb.net></a>
+<a href=irc.jamieweb.net></a>
+<a href=ipv4.jamieweb.net></a>
+<a href=www.jamieweb.net></a>
+<a href=acme-validation.jamieweb.net></a>
+<a href=nyc01.jamieweb.net></a>
+<a href=status.jamieweb.net></a>
+<a href=ldn01.jamieweb.net></a>
+<a href=mta-sts.jamieweb.net></a>
+<a href=ipv6.jamieweb.net></a>

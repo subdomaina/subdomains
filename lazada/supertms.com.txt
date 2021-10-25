@@ -1,0 +1,3 @@
+<a href=api.supertms.com></a>
+<a href=mailstore1.secureserver.net.supertms.com></a>
+<a href=smtp.secureserver.net.supertms.com></a>

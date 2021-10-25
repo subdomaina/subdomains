@@ -1,0 +1,17 @@
+<a href=dev.archive.astaro.net></a>
+<a href=dns-archive-dev.astaro.net></a>
+<a href=dns-archive-eu.astaro.net></a>
+<a href=dns-archive-us.astaro.net></a>
+<a href=dns-archive2-dev.astaro.net></a>
+<a href=dns-archive2-eu.astaro.net></a>
+<a href=dns-archive2-us.astaro.net></a>
+<a href=eu.archive.astaro.net></a>
+<a href=eu.logmgmt.astaro.net></a>
+<a href=minimaskin.astaro.net></a>
+<a href=mx.archive.astaro.net></a>
+<a href=pt.astaro.net></a>
+<a href=us.archive.astaro.net></a>
+<a href=testcase.astaro.net></a>
+<a href=testcase3.astaro.net></a>
+<a href=testcase2.astaro.net></a>
+<a href=www.astaro.net></a>
